@@ -1,0 +1,58 @@
+{
+  "Judgment": [
+    {"id": "j1", "text": "I carefully analyze situations before making decisions", "category": "Judgment"},
+    {"id": "j2", "text": "I consider long-term consequences when making choices", "category": "Judgment"},
+    {"id": "j3", "text": "I weigh pros and cons thoroughly before deciding", "category": "Judgment"},
+    {"id": "j4", "text": "I remain objective when evaluating options", "category": "Judgment"},
+    {"id": "j5", "text": "I seek relevant information before forming opinions", "category": "Judgment"},
+    {"id": "j6", "text": "I can identify logical flaws in arguments", "category": "Judgment"},
+    {"id": "j7", "text": "I avoid jumping to conclusions without evidence", "category": "Judgment"},
+    {"id": "j8", "text": "I consider ethical implications when making decisions", "category": "Judgment"},
+    {"id": "j9", "text": "I can prioritize competing factors effectively", "category": "Judgment"},
+    {"id": "j10", "text": "I recognize when my biases might affect my judgment", "category": "Judgment"},
+    {"id": "j11", "text": "I adjust my views when presented with new information", "category": "Judgment"},
+    {"id": "j12", "text": "I can identify the root cause of complex problems", "category": "Judgment"}
+  ],
+  "Achievement": [
+    {"id": "a1", "text": "I set challenging goals for myself", "category": "Achievement"},
+    {"id": "a2", "text": "I persist until I achieve my objectives", "category": "Achievement"},
+    {"id": "a3", "text": "I take initiative without being prompted", "category": "Achievement"},
+    {"id": "a4", "text": "I consistently deliver high-quality work", "category": "Achievement"},
+    {"id": "a5", "text": "I exceed expectations whenever possible", "category": "Achievement"},
+    {"id": "a6", "text": "I measure my progress toward goals regularly", "category": "Achievement"},
+    {"id": "a7", "text": "I take responsibility for my performance", "category": "Achievement"},
+    {"id": "a8", "text": "I seek ways to improve efficiency", "category": "Achievement"},
+    {"id": "a9", "text": "I maintain focus on long-term objectives", "category": "Achievement"},
+    {"id": "a10", "text": "I celebrate small wins along the way to bigger goals", "category": "Achievement"},
+    {"id": "a11", "text": "I bounce back quickly from setbacks", "category": "Achievement"},
+    {"id": "a12", "text": "I prioritize tasks based on importance", "category": "Achievement"}
+  ],
+  "Relationship": [
+    {"id": "r1", "text": "I build strong connections with team members", "category": "Relationship"},
+    {"id": "r2", "text": "I actively listen to others' perspectives", "category": "Relationship"},
+    {"id": "r3", "text": "I provide constructive feedback to others", "category": "Relationship"},
+    {"id": "r4", "text": "I resolve conflicts diplomatically", "category": "Relationship"},
+    {"id": "r5", "text": "I demonstrate empathy toward others", "category": "Relationship"},
+    {"id": "r6", "text": "I communicate clearly and effectively", "category": "Relationship"},
+    {"id": "r7", "text": "I treat everyone with respect regardless of status", "category": "Relationship"},
+    {"id": "r8", "text": "I recognize and appreciate others' contributions", "category": "Relationship"},
+    {"id": "r9", "text": "I am trustworthy and reliable", "category": "Relationship"},
+    {"id": "r10", "text": "I adapt my communication style to different audiences", "category": "Relationship"},
+    {"id": "r11", "text": "I collaborate effectively in group settings", "category": "Relationship"},
+    {"id": "r12", "text": "I maintain appropriate professional boundaries", "category": "Relationship"}
+  ],
+  "Learning Agility": [
+    {"id": "l1", "text": "I quickly adapt to new situations", "category": "Learning Agility"},
+    {"id": "l2", "text": "I actively seek feedback for improvement", "category": "Learning Agility"},
+    {"id": "l3", "text": "I am curious about new ideas and approaches", "category": "Learning Agility"},
+    {"id": "l4", "text": "I learn from my mistakes", "category": "Learning Agility"},
+    {"id": "l5", "text": "I apply knowledge from one area to another", "category": "Learning Agility"},
+    {"id": "l6", "text": "I stay current with industry trends and developments", "category": "Learning Agility"},
+    {"id": "l7", "text": "I explore multiple solutions to problems", "category": "Learning Agility"},
+    {"id": "l8", "text": "I embrace change as an opportunity", "category": "Learning Agility"},
+    {"id": "l9", "text": "I seek out challenging learning experiences", "category": "Learning Agility"},
+    {"id": "l10", "text": "I can quickly understand complex new concepts", "category": "Learning Agility"},
+    {"id": "l11", "text": "I regularly reflect on my experiences to improve", "category": "Learning Agility"},
+    {"id": "l12", "text": "I am comfortable with ambiguity", "category": "Learning Agility"}
+  ]
+}
